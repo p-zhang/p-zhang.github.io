@@ -11,8 +11,8 @@ relative_permalinks: true
 
 # Setup
 title:            Your Name
-tagline:          'Ph.D. student'
-description:      'Ph.D. student'
+tagline:          'Ph.D. Student'
+description:      'Ph.D. Student'
 #url:              http://hyde.getpoole.com
 url:               http://p-zhang.github.io
 baseurl:          /

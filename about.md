@@ -15,7 +15,7 @@ Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, “[Modulated Unit-Norm Tight Fram
 
 Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, "Atomic Norm Denoising-based Channel Estimation for Massive Multiuser MIMO Systems," ICC 2015.
 
-Peng Zhang, Sumei Sun, and Cong Ling, “[Variable-Density Sampling on the Dual Lattice],” ISIT 2014.
+Peng Zhang, Sumei Sun, and Cong Ling, “[Variable-Density Sampling on the Dual Lattice](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6875044&queryText=Variable-Density+Sampling+on+the+Dual+Lattice&newsearch=true&searchField=Search_All),” ISIT 2014.
 
 Peng Zhang, Lu Gan, Sumei Sun and Cong Ling, "[Deterministic sequences for compressive MIMO channel estimation](http://arxiv.org/abs/1311.0391)," EUSIPCO 2013.
 

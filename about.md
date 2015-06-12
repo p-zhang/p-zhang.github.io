@@ -1,12 +1,14 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-## Biography
-Peng Zhang received the B.Eng. (with first-class honors) degree in electrical and electronic engineering from Nanyang Technological University, Singapore, in 2011. He is currently pursuing the Ph.D. degree in the Electrical and Electronic Engineering Department at Imperial College London, U.K. He was a Research Engineer with the Institute for Infocomm Research (I 2R), Singapore, in 2011-2012. His current research interests include sparse signal processing, random matrix theory, and lattice.
 
-Mr. Zhang is a recipient of the A*STAR Graduate Scholarship (Overseas) from the Agency for Science, Technology, and Research (A*STAR), Singapore.
+## Biography
+**Peng Zhang** received the B.Eng. (with first-class honors) degree in electrical and electronic engineering from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx), Singapore, in 2011. He is currently pursuing the Ph.D. degree in the Electrical and Electronic Engineering Department at [Imperial College London](https://www.imperial.ac.uk/), U.K. He was a Research Engineer with the [Institute for Infocomm Research](http://www.i2r.a-star.edu.sg/), Singapore, in 2011-2012. His current research interests include sparse signal processing, random matrix theory, and lattice.
+
+Mr. Zhang is a recipient of the A*STAR Graduate Scholarship (Overseas) from the Agency for Science, Technology, and Research ([A*STAR](http://www.a-star.edu.sg/)), Singapore.
 
 ## Publications
 Peng Zhang, Lu Gan, Cong Ling, and Sumei Sun, “Structured Random Matrices for Compressed Sensing with Block-Sparse Corruptions,” submitted.
@@ -18,4 +20,3 @@ Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, "Atomic Norm Denoising-based Chann
 Peng Zhang, Sumei Sun, and Cong Ling, “[Variable-Density Sampling on the Dual Lattice](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6875044&queryText=Variable-Density+Sampling+on+the+Dual+Lattice&newsearch=true&searchField=Search_All),” ISIT 2014.
 
 Peng Zhang, Lu Gan, Sumei Sun and Cong Ling, "[Deterministic sequences for compressive MIMO channel estimation](http://arxiv.org/abs/1311.0391)," EUSIPCO 2013.
-

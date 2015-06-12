@@ -10,7 +10,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Your Name
+title:            Peng Zhang
 tagline:          'Ph.D. Student'
 description:      'Ph.D. Student'
 #url:              http://hyde.getpoole.com
@@ -18,7 +18,7 @@ url:               http://p-zhang.github.io
 baseurl:          /
 
 author:
-  name:           'Your Name'
+  name:           'Peng Zhang'
 #  url:            https://twitter.com/mdo
 
 paginate:         1

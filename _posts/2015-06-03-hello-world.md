@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 
 ## Hello world!
@@ -9,5 +10,3 @@ _Hello_ **world**
 prose.io is easy to use.
 
 > This is a block quote
-
-

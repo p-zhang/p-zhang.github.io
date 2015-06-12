@@ -1,5 +1,5 @@
 Matlab code for the paper:
-[1] Peng Zhang, Lu Gan, Sumei Sun and Cong Ling, ''Modulated Unit-Norm Tight Frames for Compressed Sensing'', to appear in IEEE Trans. Signal Process.
+[1] Peng Zhang, Lu Gan, Sumei Sun and Cong Ling, "Modulated Unit-Norm Tight Frames for Compressed Sensing," to appear in IEEE Trans. Signal Process.
 
 How to:
 Add everything (folders and subfolders) to the Matlab path.

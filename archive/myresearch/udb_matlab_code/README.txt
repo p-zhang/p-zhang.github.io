@@ -3,7 +3,7 @@ Matlab code for the paper:
 
 To download:
 
-Click "udb_matlab_code.rar" --> Click "view full file" to download everything
+Click "udb_matlab_code.rar" --> Click "view the full file" to download everything
 
 How to:
 Add everything (folders and subfolders) to the Matlab path.

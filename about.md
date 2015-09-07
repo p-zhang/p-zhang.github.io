@@ -13,7 +13,7 @@ Mr. Zhang is a recipient of the A*STAR Graduate Scholarship (Overseas) from the 
 ## Publications
 Peng Zhang, Lu Gan, Cong Ling, and Sumei Sun, "Structured Random Matrices for Compressed Sensing with Block-Sparse Corruptions," submitted.
 
-Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, "[Modulated Unit-Norm Tight Frames for Compressed Sensing](http://arxiv.org/abs/1411.7630)," ([code](https://github.com/p-zhang/p-zhang.github.io/tree/master/archive/myresearch/udb_matlab_code)) IEEE Trans. Signal Process., vol. 63, no. 15, pp. 3974-3985, Aug. 2015.
+Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, "[Modulated Unit-Norm Tight Frames for Compressed Sensing](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7093188&newsearch=true&queryText=unit%20norm%20tight%20frames%20compressed%20sensing)," ([code](https://github.com/p-zhang/p-zhang.github.io/tree/master/archive/myresearch/udb_matlab_code)) IEEE Trans. Signal Process., vol. 63, no. 15, pp. 3974-3985, Aug. 2015.
 
 Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, "Atomic Norm Denoising-based Channel Estimation for Massive Multiuser MIMO Systems," ICC 2015.
 

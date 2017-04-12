@@ -11,8 +11,8 @@ relative_permalinks: true
 
 # Setup
 title:            Peng Zhang
-tagline:          'Ph.D. Student @ Imperial College London'
-description:      'Ph.D. Student @ Imperial College London'
+tagline:          'Scientist @ Institute for Infocomm Research'
+description:      'Scientist @ Institute for Infocomm Research'
 #url:              http://hyde.getpoole.com
 url:               http://p-zhang.github.io
 baseurl:          /

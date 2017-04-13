@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-published: false
+published: true
 ---
 
 

@@ -1,4 +1,0 @@
-git add index.html
-git commit index.html -m "ljfdsl"
-
-git push origin master

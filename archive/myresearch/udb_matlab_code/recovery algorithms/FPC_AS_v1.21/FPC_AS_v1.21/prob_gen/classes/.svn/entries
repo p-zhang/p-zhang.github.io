@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="170"
+   name=""
+   committed-date="2008-08-25T16:14:47.453056Z"
+   url="https://cvs.caam.rice.edu:3129/svn/wotaoyin/projects/FPC_subopt/FPC_AS/prob_gen/classes"
+   last-author="zw2109"
+   kind="dir"
+   uuid="27483784-b34b-0410-9a95-e5483598dc27"
+   repos="https://cvs.caam.rice.edu:3129/svn/wotaoyin"
+   revision="185"/>
+<entry
+   name="@A_operator"
+   kind="dir"/>
+</wc-entries>

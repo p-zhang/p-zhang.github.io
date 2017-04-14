@@ -1,0 +1,49 @@
+---
+layout: default
+title: Home
+published: true
+---
+
+ <div>
+    <h2><img src="/archive/others/Peng.jpg" width="127" height="153" align="left" />&nbsp;&nbsp;Peng Zhang <strong>张鹏</strong></h2>
+    <p>&nbsp;&nbsp;&nbsp;Communications and Networks Cluster <br />
+      &nbsp;&nbsp;&nbsp;Institute for Infocomm Research (<a href="http://www.i2r.a-star.edu.sg/">I2R</a>) <br />
+      &nbsp;&nbsp;&nbsp;Agency for Science, Technology and Research (<a href="https://www.a-star.edu.sg/">A*STAR</a>) <br />
+      &nbsp;&nbsp;&nbsp;Email: zhangp (at) i2r.a-star.edu.sg; p.zhang12 (at) imperial.ac.uk </p>
+      <blockquote><a href="about">Biography and Publications</a></blockquote>
+    <p>&nbsp;</p>
+<!-- end .content --></div>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+

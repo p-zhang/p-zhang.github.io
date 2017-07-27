@@ -1,5 +1,5 @@
 ---
-layout: dafault
+layout: default
 title: About
 published: false
 ---

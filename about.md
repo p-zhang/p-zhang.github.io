@@ -11,7 +11,12 @@ published: true
 Dr. Zhang is a recipient of the A*STAR Graduate Scholarship (Overseas) from the Agency for Science, Technology, and Research ([A*STAR](http://www.a-star.edu.sg/)), Singapore.
 
 ## Publications
-Peng Zhang, Lu Gan, Cong Ling, and Sumei Sun, "Structured Random Matrices for Compressed Sensing with Block-Sparse Corruptions," submitted.
+Peng Zhang and Sumei Sun, "Decentralized Network Anomaly Detection via A Riemannian Cluster Approach", Globecom 2017, _accepted_.
+
+Peng Zhang, Lu Gan, Cong Ling, and Sumei Sun, "[Uniform Recovery Bounds for Structured Random
+Matrices in Corrupted Compressed Sensing](https://arxiv.org/abs/1706.09087)," _submitted_.
+
+Peng Zhang, Lu Gan, Cong Ling, and Sumei Sun, "Atomic Norm Denoising-Based Joint Channel Estimation and Faulty Antenna Detection for Massive MIMO," _submitted_.
 
 Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, "[Modulated Unit-Norm Tight Frames for Compressed Sensing](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7093188&newsearch=true&queryText=unit%20norm%20tight%20frames%20compressed%20sensing)," ([code](https://github.com/p-zhang/p-zhang.github.io/tree/master/archive/myresearch/udb_matlab_code)) IEEE Trans. Signal Process., vol. 63, no. 15, pp. 3974-3985, Aug. 2015.
 
